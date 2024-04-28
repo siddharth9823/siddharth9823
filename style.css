@@ -210,7 +210,7 @@ h6 {
 	text-decoration:none;
 }
 .video-section {
-	background: url(images/location.png) no-repeat fixed center;
+	background: url(location.png) no-repeat fixed center;
 	background-size: cover;
 	overflow: hidden;
 }
